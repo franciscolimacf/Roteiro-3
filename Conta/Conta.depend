@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1539807966 source:c:\users\franf\documents\c++\conta\src\conta.cpp
+	"Conta.h"
+
+1539808048 c:\users\franf\documents\c++\conta\include\conta.h
+	<IConta.h>
+
+1539808004 c:\users\franf\documents\c++\conta\include\iconta.h
+	<string>
+
+1539807966 source:c:\users\franf\documents\c++\conta\main.cpp
+	<iostream>
+	<ContaEspecial.h>
+
+1539808055 c:\users\franf\documents\c++\conta\include\contaespecial.h
+	<Conta.h>
+
+1539808079 source:c:\users\franf\documents\c++\conta\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539808096 source:c:\users\franf\documents\c++\conta\src\iconta.cpp
+	"IConta.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1539816013 source:c:\users\franf\documents\c++\banco\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539816013 c:\users\franf\documents\c++\banco\include\contacorrente.h
+	<Conta.h>
+
+1539816013 c:\users\franf\documents\c++\banco\include\conta.h
+	<string>
+
+1539816013 source:c:\users\franf\documents\c++\banco\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539816013 c:\users\franf\documents\c++\banco\include\contaespecial.h
+	<ContaCorrente.h>
+
+1539816018 source:c:\users\franf\documents\c++\banco\src\conta.cpp
+	"Conta.h"
+
+1539816013 source:c:\users\franf\documents\c++\banco\src\poupanca.cpp
+	"Poupanca.h"
+
+1539816013 c:\users\franf\documents\c++\banco\include\poupanca.h
+	<Conta.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1539804206 source:c:\users\franf\documents\c++\figura geometrica abstract\src\circulo.cpp
+	"Circulo.h"
+
+1539804206 c:\users\franf\documents\c++\figura geometrica abstract\include\circulo.h
+	"FiguraGeometrica.h"
+
+1539804316 c:\users\franf\documents\c++\figura geometrica abstract\include\figurageometrica.h
+	<string>
+
+1539803990 source:c:\users\franf\documents\c++\figura geometrica abstract\src\retangulo.cpp
+	"Retangulo.h"
+
+1539803990 c:\users\franf\documents\c++\figura geometrica abstract\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1539803990 source:c:\users\franf\documents\c++\figura geometrica abstract\src\triangulo.cpp
+	"Triangulo.h"
+
+1539803990 c:\users\franf\documents\c++\figura geometrica abstract\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539804140 source:c:\users\franf\documents\c++\figura geometrica abstract\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539804261 source:c:\users\franf\documents\c++\figura geometrica abstract\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
